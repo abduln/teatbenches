@@ -1,3 +1,9 @@
 Here here is another file
 Goind to eidt this file
+<<<<<<< HEAD
 Here are some modifications from Ghafoor
+=======
+here3 is comments from abdul naeem
+>>>>>>> 57b74ff734f6552211b71cca65386991a42db45c
+
+The file is modified and uploaded again.
